@@ -1,0 +1,49 @@
+.container1{
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+    margin-top:10px;
+    border: 5px solid blueviolet;
+    border-radius: 9px;
+}
+#bolinha1{
+    width: 60px;
+    height: 60px;
+
+    background-color:gold;
+    border-radius: 100px;
+}
+.titulo{
+    font-size: large;
+    color:aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.texto{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: deeppink;
+}
+
+
+/*Div2*/
+.container2{
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+
+    margin-top:10px;
+    border: 5px solid blueviolet;
+    border-radius: 9px;
+
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    
+}
+#bolinha2{
+    width: 60px;
+    height: 60px;
+
+    background-color:gold;
+    border-radius: 100px;
+}
